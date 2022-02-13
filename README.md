@@ -1,16 +1,13 @@
-### Hi there 👋
+### Eaii! sou o João Pedro
 
-<!--
-**joaopedro-melo/joaopedro-melo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou trabalhando com Java!
+- 🌱 Atualmente estou estudando React!
+- 📫 Manda convite lá https://www.linkedin.com/in/jo%C3%A3o-pedro-voltolini-de-melo-2043b71b5/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/joaopedro-melo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedro-melo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedro-melo&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+</div>
