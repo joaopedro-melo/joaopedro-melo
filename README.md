@@ -2,7 +2,7 @@
 
 - 🔭 Estou trabalhando com Java!
 - 🌱 Atualmente estou estudando React!
-- 📫 Manda convite lá https://www.linkedin.com/in/jo%C3%A3o-pedro-voltolini-de-melo-2043b71b5/
+- 📫 Estou aberto a propostas - https://www.linkedin.com/in/jo%C3%A3o-pedro-voltolini-de-melo-2043b71b5/
 
 ##
 
